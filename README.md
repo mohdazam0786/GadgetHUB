@@ -116,14 +116,6 @@ GadgetHub is built to provide a seamless shopping experience for users and a con
   - `POST /api/cart`: Add items to the cart
   - `POST /api/checkout`: Process payment using Stripe
 
-## Screenshots
-
-_Add screenshots of the app here once available._
-
 ## Contributors
 
 - **Mohd. Azam Siddique** - Full Stack Developer
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
