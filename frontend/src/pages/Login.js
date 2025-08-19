@@ -37,7 +37,8 @@ const Login = () => {
             headers : {
                 "content-type" : "application/json"
             },
-            body : JSON.stringify(data)
+            body : JSON.stringify(data),
+            credentials: "include"
         })
 
         const dataApi = await dataResponse.json()
